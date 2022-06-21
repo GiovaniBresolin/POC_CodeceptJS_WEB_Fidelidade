@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "codeceptjs": "^3.3.3",
+    "playwright": "^1.22.2"
+  }
+}
