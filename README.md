@@ -2,7 +2,7 @@
 Projeto de POC com codeceptjs
 
 Clonar repositório
-git clone https://github.com/qazando/curso-codeceptjs-webdriver.git
+git clone https://github.com/GiovaniBresolin/POC_CodeceptJS_WEB_Fidelidade.git
 
 Instalar dependencias
 npm install
