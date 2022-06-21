@@ -12,3 +12,11 @@ npx codeceptjs run --steps
 
 Rodar testes com relatório
 npx codeceptjs run --plugins allure
+
+comando para abrir o liberar excução de script
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+comando para abrir o relatório
+allure serve output
+
+
