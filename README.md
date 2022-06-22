@@ -1,9 +1,12 @@
 # POC_CodeceptJS_WEB_Fidelidade
 Projeto de POC com codeceptjs
 
-Clonar repositório
-git clone :
-https://github.com/GiovaniBresolin/POC_CodeceptJS_WEB_Fidelidade.git
+Clonar repositório:
+git clone https://github.com/GiovaniBresolin/POC_CodeceptJS_WEB_Fidelidade.git
+
+Criar pastas:
+node_modules
+output
 
 Instalar dependencias:
 npm install
