@@ -8,6 +8,9 @@ Criar pastas:
 node_modules
 output
 
+rodar o comando :
+npx create-codeceptjs .
+
 Instalar dependencias:
 npm install
 
