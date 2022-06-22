@@ -11,6 +11,9 @@ output
 rodar o comando :
 npx create-codeceptjs .
 
+rodar o comando :
+npm install -g allure-commandline --save-dev
+
 Instalar dependencias:
 npm install
 
